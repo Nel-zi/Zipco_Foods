@@ -127,6 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.myenv_Zipco_Foods
+Zipco_Foods_venv_wsl
+Create_user.txt
 
 # Spyder project settings
 .spyderproject

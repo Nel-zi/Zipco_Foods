@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+azure-storage-blob
+nbformat
+nbconvert
+apache-airflow
